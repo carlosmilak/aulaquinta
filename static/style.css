@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 5px;
+}
+
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+input {
+    width: 200px;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.error {
+    color: red;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 5px;
+    background: linear-gradient(to bottom, #FF00FF, #FFA500, #FFFF00); /* Rosa para Laranja para Amarelo */
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+input {
+    width: 200px;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.error {
+    color: red;
+}
